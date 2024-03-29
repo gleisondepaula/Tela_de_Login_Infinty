@@ -1,4 +1,4 @@
-# Tela_de_Login_Infinty
+
 # Tela de Login - Infinity School
 
 Este é um projeto de tela de login desenvolvido para a Infinity School, uma escola fictícia. A tela de login foi projetada para permitir que os usuários acessem o portal da escola, onde podem encontrar o material das aulas e outras informações relacionadas.
